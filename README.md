@@ -19,7 +19,7 @@ Auto IP or Domain Attack Tool ( #1 )
 
 ✔ cd $HOME
 
-✔ git clone https://github.com/Bhai4You/Ip-Attack
+✔ git clone https://github.com/bootingtears/IP-ATTACK
 
 ✔ cd Ip-Attack
 
