@@ -1,7 +1,7 @@
 #!/bin/python
 # 
 #
-# Name	:	IP Attack
+# Name	:	IP ATTACK
 # Code		:	python
 # Sec.Code	:	8h4i
 # Coder		: 	Sutariya Parixit
