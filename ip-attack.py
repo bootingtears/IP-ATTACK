@@ -7,9 +7,8 @@
 #  Platform	:  Android Termux
 #  Code		:  Python
 #  Sec.Code	:  8h4i
-#  Coded by	:  Sutariya Parixit
-#  Site 		:  bhai4you.blogspot.com
-#  Github	:  https://github.com/Bhai4You
+#  Coded by	:  BootingTears
+#  Github	:  https://github.com/bootingtears
 #
 #
 #
