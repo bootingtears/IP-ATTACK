@@ -7,7 +7,7 @@
 #  Platform	:  Android Termux
 #  Code		:  Python
 #  Sec.Code	:  8h4i
-#  Coded by	:  BootingTears
+#  Coded by	:  stealingyourdata
 #  Github	:  https://github.com/bootingtears
 #
 #
